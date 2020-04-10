@@ -1,2 +1,7 @@
 # hello-world
-Test
+
+Hello!
+
+Test file for first hello world exercise.
+
+
